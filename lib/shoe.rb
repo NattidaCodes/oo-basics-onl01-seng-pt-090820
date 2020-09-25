@@ -49,6 +49,7 @@ class Shoe
       puts "new"
     else
       "old"
+    end
   end
 
 end
